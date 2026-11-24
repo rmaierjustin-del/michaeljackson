@@ -1,11 +1,11 @@
 {
   "wallpapers": [
     "https://images.unsplash.com/photo-1611457194403-d3aca4cf9d11",
-    "kuromi/2.jpg",
+    "screen20.jpg",
     "kuromi/3.jpg",
     "kuromi/4.jpg",
     "kuromi/6.jpg",
-    "kuromi/7.jpg",
+    "screen20.jpg",
     "kuromi/8.jpg",
     "kuromi/9.png",
     "kuromi/10.png",
@@ -70,7 +70,7 @@
     },
     {
       "video": "live_wallpapers/9.mp4",
-      "thumbnail": "live_wallpapers/9.jpg"
+      "thumbnail": "screen20.jpg"
     }
   ]
 }
