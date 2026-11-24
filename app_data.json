@@ -1,0 +1,76 @@
+{
+  "wallpapers": [
+    "https://images.unsplash.com/photo-1611457194403-d3aca4cf9d11",
+    "kuromi/2.jpg",
+    "kuromi/3.jpg",
+    "kuromi/4.jpg",
+    "kuromi/6.jpg",
+    "kuromi/7.jpg",
+    "kuromi/8.jpg",
+    "kuromi/9.png",
+    "kuromi/10.png",
+    "kuromi/11.jpg",
+    "kuromi/12.jpg",
+    "kuromi/13.jpg",
+    "kuromi/14.jpg",
+    "kuromi/15.jpg",
+    "kuromi/16.jpg",
+    "kuromi/17.jpg",
+    "kuromi/18.jpg",
+    "kuromi/19.jpg",
+    "kuromi/20.jpg",
+    "kuromi/21.jpg",
+    "kuromi/22.jpg",
+    "kuromi/23.jpg",
+    "kuromi/24.jpg",
+    "kuromi/25.jpg",
+    "kuromi/26.jpg",
+    "kuromi/27.jpg",
+    "kuromi/28.jpg",
+    "kuromi/29.jpg",
+    "kuromi/30.png",
+    "kuromi/31.jpg",
+    "kuromi/32.jpg",
+    "https://images.unsplash.com/photo-1736665723428-730f1d5823d2",
+    "https://images.unsplash.com/photo-1668293750324-bd77c1f08ca9",
+    "https://raw.githubusercontent.com/LegendAsus/poppy-wallpapers/main/New/Change_background_keep_character_2K_202607181510%20(1).jpeg"
+  ],
+  "live_wallpapers": [
+    {
+      "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/1.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/1.png"
+    },
+    {
+      "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/2.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/2.png"
+    },
+    {
+      "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/3.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/LegendAsus/poppy-wallpapers/main/New/Change_background_keep_character_2K_202607181510%20(1).jpeg"
+    },
+    {
+      "video": "live_wallpapers/4.mp4",
+      "thumbnail": "live_wallpapers/4.jpg"
+    },
+    {
+      "video": "live_wallpapers/5.mp4",
+      "thumbnail": "live_wallpapers/5.jpg"
+    },
+    {
+      "video": "live_wallpapers/6.mp4",
+      "thumbnail": "live_wallpapers/6.jpg"
+    },
+    {
+      "video": "live_wallpapers/7.mp4",
+      "thumbnail": "live_wallpapers/7.jpg"
+    },
+    {
+      "video": "live_wallpapers/8.mp4",
+      "thumbnail": "live_wallpapers/8.jpg"
+    },
+    {
+      "video": "live_wallpapers/9.mp4",
+      "thumbnail": "live_wallpapers/9.jpg"
+    }
+  ]
+}
