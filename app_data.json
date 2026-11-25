@@ -203,40 +203,12 @@
   ],
   "live_wallpapers": [
     {
-      "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/1.mp4",
+      "video": "",
       "thumbnail": "https://i.pinimg.com/1200x/2f/4a/33/2f4a330ed2b1296226bc3f92370046cf.jpg"
     },
     {
-      "video": "https://i.pinimg.com/1200x/00/a9/f7/00a9f704d6dc6b0634461628353f02f1.jpg",
+      "video": "",
       "thumbnail": "https://i.pinimg.com/1200x/00/a9/f7/00a9f704d6dc6b0634461628353f02f1.jpg"
-    },
-    {
-      "video": "https://raw.githubusercontent.com/LegendAsus/kuromi-wallpapers/refs/heads/main/live_wallpapers/3.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/LegendAsus/poppy-wallpapers/main/New/Change_background_keep_character_2K_202607181510%20(1).jpeg"
-    },
-    {
-      "video": "live_wallpapers/4.mp4",
-      "thumbnail": "live_wallpapers/4.jpg"
-    },
-    {
-      "video": "live_wallpapers/5.mp4",
-      "thumbnail": "live_wallpapers/5.jpg"
-    },
-    {
-      "video": "live_wallpapers/6.mp4",
-      "thumbnail": "live_wallpapers/6.jpg"
-    },
-    {
-      "video": "live_wallpapers/7.mp4",
-      "thumbnail": "live_wallpapers/7.jpg"
-    },
-    {
-      "video": "live_wallpapers/8.mp4",
-      "thumbnail": "live_wallpapers/8.jpg"
-    },
-    {
-      "video": "live_wallpapers/9.mp4",
-      "thumbnail": "screen20.jpg"
     }
   ]
 }
